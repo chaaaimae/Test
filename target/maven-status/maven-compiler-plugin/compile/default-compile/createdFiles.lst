@@ -1,0 +1,3 @@
+com\mycompany\votecount\VoteCountMapper.class
+com\mycompany\votecount\VoteCountReducer.class
+com\mycompany\votecount\VoteCountApplication.class
